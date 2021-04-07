@@ -1,0 +1,6 @@
+.row div {
+  display: flex;
+  flex-direction: row;
+  width: 20vw;
+}
+
